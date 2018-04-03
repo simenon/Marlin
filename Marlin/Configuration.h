@@ -330,7 +330,7 @@
 #define HEATER_2_MAXTEMP 275
 #define HEATER_3_MAXTEMP 275
 #define HEATER_4_MAXTEMP 275
-#define BED_MAXTEMP 120
+#define BED_MAXTEMP 135
 
 //===========================================================================
 //============================= PID Settings ================================
@@ -360,9 +360,9 @@
   //#define  DEFAULT_Kd 114
 
   // FLSun
-  #define  DEFAULT_Kp 47.67
-  #define  DEFAULT_Ki 6.0
-  #define  DEFAULT_Kd 94.70
+  #define  DEFAULT_Kp 43.65
+  #define  DEFAULT_Ki 5.17
+  #define  DEFAULT_Kd 92.08
 
   // MakerGear
   //#define  DEFAULT_Kp 7.0
