@@ -270,7 +270,9 @@
 //
 // Misc. Functions
 //
-#define SDSS               53
+
+// See https://github.com/MarlinFirmware/Marlin/issues/10292
+//#define SDSS               53
 #define LED_PIN            13
 
 #ifndef FILWIDTH_PIN
